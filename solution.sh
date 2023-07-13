@@ -36,4 +36,3 @@ rm /shared_files/shared_file
 
 # Remove "/shared_files" directory
 rmdir /shared_files
-
